@@ -16,6 +16,9 @@
 <image src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="Imagen de Python" width="50" height="50">|
 <image src="https://github.com/tandpfun/skill-icons/blob/main/icons/Swift.svg" alt="Imagen de Swift" width="50" height="50">|
 
+## Y sí, como adivinaste por mi nombre de usuario. ¡Me encanta la matemática! 
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/c33b8428-e102-4fda-b5f7-2b4f7d71ed65"/>
+
 
 
 
