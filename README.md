@@ -1,5 +1,5 @@
 ## ¡Hola a todos! 👋
-### Mi nombre es Emanuel, bienviendos a mi repositorio, espero puedan saber un poco más de mí y de las tecnologías que me apasionan. 
+### Mi nombre es Emanuel, bienviendos a mi repositorio, espero puedan saber un poco más de mí y de las tecnologías que me apasionan. Aunque pueden haber varias, no me considero experto en ninguna, las he utilizado por razones de estudio o gusto propio, espero poder especializarme en mis favoritos y tener primero Dios un buen nivel y ser un buen dev. 😄
 
 #### Lenguaje de programación favorito (y principal): 
 <image src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" alt="Imagen de C#" width="50" height="50">
@@ -20,6 +20,11 @@
 | <image src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg" alt="Imagen de SQLite" width="50" height="50">|
 <image src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" alt="Imagen de MongoDB" width="50" height="50">|
 <image src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="Imagen de MySQL" width="50" height="50">|
+
+### IDEs que he usado:
+| <image src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" alt="Imagen de Visual Studio" width="50" height="50">|
+<image src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="Imagen de VS Code" width="50" height="50">|
+<image src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg" alt="Imagen de Android Studio" width="50" height="50">|
 
 ## Y sí, como adivinaste por mi nombre de usuario. ¡Me encanta la matemática! 
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/c33b8428-e102-4fda-b5f7-2b4f7d71ed65"/>
