@@ -34,11 +34,28 @@ I focus on logic and backend, but I also enjoy working on the frontend.
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="Python" width="45" height="45"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="Java" width="45" height="45"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Swift.svg" alt="Swift" width="45" height="45"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" alt="PHP" width="45" height="45"/>
 </p>
+
+**Frameworks & Technologies (Frameworks y Tecnologías):**
+<p align="left">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" alt=".NET" width="45" height="45"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="Node.js" width="45" height="45"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" alt="Express.js" width="45" height="45"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sequelize-Dark.svg" alt="Sequelize" width="45" height="45"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg" alt="Laravel" width="45" height="45"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg" alt="Angular" width="45" height="45"/>
+</p>
+
+* **.NET Ecosystem:** .NET, .NET Framework 4.8, ASP.NET, MAUI, WPF, Windows Forms
+* **Web & Backend:** Node.js, Express.js, Laravel, Angular
+* **Mobile:** Jetpack Compose
+* **ORMs / Data Access:** Entity Framework, ADO.NET, Dapper, Eloquent, Sequelize, Room, Jetpack DataStore, Supabase
 
 ### 🗄️ Databases (Bases de Datos)
 <p align="left">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="MySQL" width="45" height="45"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" alt="PostgreSQL" width="45" height="45"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg" alt="SQLite" width="45" height="45"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" alt="MongoDB" width="45" height="45"/>
 </p>
@@ -92,5 +109,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
