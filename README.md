@@ -89,9 +89,9 @@ As my username suggests, **I love Mathematics**. I strongly believe that specifi
 
 ### 📊 GitHub Stats
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emanuelmath&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelmath&layout=compact&theme=tokyonight"/>
+<a href="https://github.com/stats-organization/github-stats-extended">
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=emanuelmath&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=emanuelmath&layout=compact&theme=tokyonight"/>
 </a>
 </p>
 
