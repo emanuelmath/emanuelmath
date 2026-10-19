@@ -21,54 +21,37 @@ Mi meta principal es especializarme en **C# y tecnologías .NET**, pero también
 ### 💻 Main Stack (Principal)
 I focus on logic and backend, but I also enjoy working on the frontend.
 <br>
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" alt="C#" width="60" height="60">
+<img src="https://skillicons.dev/icons?i=cs&theme=dark" alt="C#" />
 
 ### 🛠️ Languages & Frameworks
 **Backend, Mobile & Web:**
 <p align="left">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="C" width="45" height="45"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="C++" width="45" height="45"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg" alt="Kotlin" width="45" height="45">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="JavaScript" width="45" height="45"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" alt="TypeScript" width="45" height="45"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="Python" width="45" height="45"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="Java" width="45" height="45"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Swift.svg" alt="Swift" width="45" height="45"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" alt="PHP" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,kotlin,js,ts,py,java,swift,php&theme=dark" alt="Languages" />
 </p>
 
 **Frameworks & Technologies (Frameworks y Tecnologías):**
 <p align="left">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" alt=".NET" width="45" height="45"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="Node.js" width="45" height="45"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" alt="Express.js" width="45" height="45"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sequelize-Dark.svg" alt="Sequelize" width="45" height="45"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg" alt="Laravel" width="45" height="45"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg" alt="Angular" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,sequelize,laravel,angular&theme=dark" alt="Frameworks" />
 </p>
 
-* **.NET Ecosystem:** .NET, .NET Framework 4.8, ASP.NET, MAUI, WPF, Windows Forms
-* **Web & Backend:** Node.js, Express.js, Laravel, Angular
-* **Mobile:** Jetpack Compose
-* **ORMs / Data Access:** Entity Framework, ADO.NET, Dapper, Eloquent, Sequelize, Room, Jetpack DataStore, Supabase
+- **.NET Ecosystem:** .NET, .NET Framework 4.8, ASP.NET, MAUI, WPF, Windows Forms
+
+- **Web & Backend:** Node.js, Express.js, Laravel, Angular
+
+- **Mobile:** Jetpack Compose
+
+- **ORMs / Data Access:** Entity Framework, ADO.NET, Dapper, Eloquent, Sequelize, Room, Jetpack DataStore, Supabase
+
 
 ### 🗄️ Databases (Bases de Datos)
 <p align="left">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="MySQL" width="45" height="45"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" alt="PostgreSQL" width="45" height="45"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg" alt="SQLite" width="45" height="45"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" alt="MongoDB" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb&theme=dark" alt="Databases" />
 </p>
 
 ### ⚙️ Tools & IDEs
 I use **Android Studio** for mobile, **VS/VS Code** for dev, and engines for game prototyping.
 <p align="left">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" alt="Visual Studio" width="45" height="45"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="VS Code" width="45" height="45"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg" alt="Android Studio" width="45" height="45"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="Git" width="45" height="45"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Godot-Dark.svg" alt="Godot" width="45" height="45"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Dark.svg" alt="Unity" width="45" height="45"/>
+  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,androidstudio,git,godot,unity&theme=dark" alt="Tools & IDEs" />
 </p>
 
 ---
@@ -94,7 +77,6 @@ As my username suggests, **I love Mathematics**. I strongly believe that specifi
   <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=emanuelmath&layout=compact&theme=tokyonight"/>
 </a>
 </p>
-
 <!--
 **emanuelmath/emanuelmath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <p line="center">
